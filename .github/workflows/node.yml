@@ -1,9 +1,9 @@
-name: NASA Project CI
+name: NASA Project CI (The Casely Group)
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 jobs:
   build:
     env:
